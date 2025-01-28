@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahriar Hossain Rafi</h1>
 <h3 align="center">A passionate CSE undergraduate from Bangladesh interested on Frontend Development</h3>
 
-- 🌱 I’m currently learning **AngularJS,ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **srafi3107@gmail.com**
 <p align="left">
